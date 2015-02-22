@@ -1,3 +1,11 @@
+#Parenthetic Runner
+
+Parenthetic Runner is a app made in applescript that lets you compile Parenthetic apps faster!
+
+##System Requirements
+
+Mac Only (Windows Version Comming Soon!)
+
 #Parenthetic
 
 Parenthetic is a programming language that uses only ```(``` and ```)``` as code. All other characters are considered comments.
